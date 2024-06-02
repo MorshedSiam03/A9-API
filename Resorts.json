@@ -1,0 +1,209 @@
+[
+    {
+      "id": 1,
+      "image": "https://i.ibb.co/XVgC6mm/VN7B4507.jpg",
+      "resort_name": "Tropical Paradise Resort",
+      "category": "All-Inclusive",
+      "description": "Enjoy the ultimate tropical getaway with all-inclusive packages, luxurious accommodations, and breathtaking ocean views.",
+      "price_per_night": 550,
+      "status": "Available",
+      "amenities": ["spa", "private beach", "all-inclusive dining"],
+      "location": "Bahamas",
+      "rooms": [
+        {
+          "type": "suite",
+          "beds": 2,
+          "price": 750
+        },
+        {
+          "type": "standard",
+          "beds": 1,
+          "price": 550
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "image": "https://i.ibb.co/WnT3Ghk/Wooden-Cottage-2.jpg",
+      "resort_name": "Mountain Escape Resort",
+      "category": "Luxury",
+      "description": "Nestled in the mountains, this resort offers luxurious rooms, world-class dining, and a serene spa.",
+      "price_per_night": 450,
+      "status": "Available",
+      "amenities": ["spa", "hiking trails", "gourmet dining"],
+      "location": "Swiss Alps",
+      "rooms": [
+        {
+          "type": "suite",
+          "beds": 2,
+          "price": 650
+        },
+        {
+          "type": "standard",
+          "beds": 1,
+          "price": 450
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "image": "https://i.ibb.co/HppXgT0/Wooden-Cottage-1.jpg",
+      "resort_name": "Desert Oasis Resort",
+      "category": "Eco-Friendly",
+      "description": "Experience the tranquility of the desert with eco-friendly accommodations and outdoor adventures.",
+      "price_per_night": 300,
+      "status": "Available",
+      "amenities": ["solar energy", "guided tours", "organic dining"],
+      "location": "Arizona, USA",
+      "rooms": [
+        {
+          "type": "suite",
+          "beds": 2,
+          "price": 450
+        },
+        {
+          "type": "standard",
+          "beds": 1,
+          "price": 300
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "image": "https://i.ibb.co/mqxcP2g/single-slide1.jpg",
+      "resort_name": "Rainforest Retreat",
+      "category": "Adventure",
+      "description": "Immerse yourself in the heart of the rainforest with adventure activities and luxurious treehouse stays.",
+      "price_per_night": 500,
+      "status": "Booked",
+      "amenities": ["zip-lining", "jungle tours", "organic meals"],
+      "location": "Costa Rica",
+      "rooms": [
+        {
+          "type": "treehouse",
+          "beds": 1,
+          "price": 500
+        },
+        {
+          "type": "suite",
+          "beds": 2,
+          "price": 700
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "image": "https://i.ibb.co/v16JGyR/EXJMs7-FU4-AAd-LVK.jpg",
+      "resort_name": "Ocean Breeze Resort",
+      "category": "Family-Friendly",
+      "description": "Perfect for families, offering a variety of activities, kids’ clubs, and beachfront access.",
+      "price_per_night": 400,
+      "status": "Available",
+      "amenities": ["kids club", "water sports", "family dining"],
+      "location": "Florida, USA",
+      "rooms": [
+        {
+          "type": "suite",
+          "beds": 2,
+          "price": 600
+        },
+        {
+          "type": "standard",
+          "beds": 1,
+          "price": 400
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "image": "https://i.ibb.co/G7ShTZp/luxury-resort-cottage-500x500.webp",
+      "resort_name": "Island Getaway Resort",
+      "category": "Romantic",
+      "description": "A romantic escape with private villas, candlelit dinners, and stunning ocean views.",
+      "price_per_night": 700,
+      "status": "Booked",
+      "amenities": ["private villas", "candlelit dinners", "ocean views"],
+      "location": "Maldives",
+      "rooms": [
+        {
+          "type": "villa",
+          "beds": 1,
+          "price": 1000
+        },
+        {
+          "type": "suite",
+          "beds": 2,
+          "price": 700
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "image": "https://i.ibb.co/XVgC6mm/VN7B4507.jpg",
+      "resort_name": "Ski Lodge Resort",
+      "category": "Winter Sports",
+      "description": "A winter paradise offering ski-in/ski-out accommodations and world-class slopes.",
+      "price_per_night": 500,
+      "status": "Available",
+      "amenities": ["ski-in/ski-out", "heated pool", "fine dining"],
+      "location": "Aspen, Colorado",
+      "rooms": [
+        {
+          "type": "lodge",
+          "beds": 2,
+          "price": 700
+        },
+        {
+          "type": "standard",
+          "beds": 1,
+          "price": 500
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "image": "https://i.ibb.co/HppXgT0/Wooden-Cottage-1.jpg",
+      "resort_name": "City Lights Resort",
+      "category": "Urban",
+      "description": "Located in the heart of the city, offering luxurious rooms and easy access to city attractions.",
+      "price_per_night": 350,
+      "status": "Available",
+      "amenities": ["rooftop bar", "city tours", "gourmet dining"],
+      "location": "New York, USA",
+      "rooms": [
+        {
+          "type": "suite",
+          "beds": 2,
+          "price": 500
+        },
+        {
+          "type": "standard",
+          "beds": 1,
+          "price": 350
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "image": "https://i.ibb.co/WnT3Ghk/Wooden-Cottage-2.jpg",
+      "resort_name": "Safari Adventure Resort",
+      "category": "Adventure",
+      "description": "Experience the thrill of a safari with luxurious tents and guided tours.",
+      "price_per_night": 600,
+      "status": "Booked",
+      "amenities": ["safari tours", "luxury tents", "wildlife viewing"],
+      "location": "Kenya",
+      "rooms": [
+        {
+          "type": "luxury tent",
+          "beds": 1,
+          "price": 800
+        },
+        {
+          "type": "standard",
+          "beds": 1,
+          "price": 600
+        }
+      ]
+    }
+]

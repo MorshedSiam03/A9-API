@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "image": "https://i.ibb.co/b2RCkWb/dbeb3be8-2a3f-48b0-86fb-168010585fe7-Atlantis-Palm-underwatersuite.jpg",
+      "hotel_title": "Grand Seaside Hotel",
+      "category": "Luxury",
+      "description": "Experience unparalleled luxury with oceanfront views and world-class amenities.",
+      "price": 450,
+      "status": "Available",
+      "room": "2 bed",
+      "location": "Malibu, CA",
+      "facilities": ["gym", "swimming pool", "sea view"]
+    },
+    {
+      "id": 2,
+      "image": "https://i.ibb.co/5G2NwHx/photo-1522708323590-d24dbb6b0267.jpg",
+      "hotel_title": "Mountain Lodge Resort",
+      "category": "Resort",
+      "description": "Nestled in the mountains, our resort offers tranquility and outdoor adventure.",
+      "price": 350,
+      "status": "Booked",
+      "room": "1 bed",
+      "location": "Aspen, CO",
+      "facilities": ["gym", "swimming pool", "hill view"]
+    },
+    {
+      "id": 3,
+      "image": "https://i.ibb.co/SfW8gQg/360-F-619000872-Axiw-Lsf-Qq-RHMk-Nx-Ab-N4l5wg1-Ms-Pg-Bsmo.jpg",
+      "hotel_title": "Urban City Hotel",
+      "category": "Business",
+      "description": "Conveniently located in the heart of downtown, perfect for business travelers.",
+      "price": 200,
+      "status": "Available",
+      "room": "1 bed",
+      "location": "New York, NY",
+      "facilities": ["gym", "city view"]
+    },
+    {
+      "id": 4,
+      "image": "https://i.ibb.co/VB8y99Q/1407953244000-177513283.webp",
+      "hotel_title": "Beachside Bungalow",
+      "category": "Beach",
+      "description": "A cozy beachfront hotel offering stunning ocean views and direct beach access.",
+      "price": 300,
+      "status": "Available",
+      "room": "2 bed",
+      "location": "Santa Monica, CA",
+      "facilities": ["swimming pool", "sea view"]
+    },
+    {
+      "id": 5,
+      "image": "https://i.ibb.co/8DKhPQs/cheaphotelrooms.jpg",
+      "hotel_title": "Historic Downtown Inn",
+      "category": "Boutique",
+      "description": "Charming inn located in the historic district, with unique rooms and great service.",
+      "price": 220,
+      "status": "Booked",
+      "room": "1 bed",
+      "location": "Charleston, SC",
+      "facilities": ["historic view", "courtyard"]
+    },
+    {
+      "id": 6,
+      "image": "https://i.ibb.co/b1hPWS7/depositphotos-20784379-stock-photo-interior-of-modern-comfortable-hotel.webp",
+      "hotel_title": "Desert Mirage Resort",
+      "category": "Resort",
+      "description": "Luxury desert resort offering beautiful sunset views and premium amenities.",
+      "price": 400,
+      "status": "Available",
+      "room": "2 bed",
+      "location": "Phoenix, AZ",
+      "facilities": ["gym", "swimming pool", "desert view"]
+    }
+  ]
+  
